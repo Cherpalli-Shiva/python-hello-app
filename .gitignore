@@ -1,0 +1,6 @@
+# python-hello-app/.gitignore
+__pycache__/
+*.pyc
+.env
+venv/
+node_modules/ # If you ever have node stuff
